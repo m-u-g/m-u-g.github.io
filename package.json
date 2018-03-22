@@ -1,0 +1,15 @@
+{
+  "name": "m-u-g.github.io",
+  "version": "1.0.0",
+  "description": "MUG (Marca User Group) Website",
+  "scripts": {
+    "start": "http-server",
+    "deploy": "gh-pages -d ."
+  },
+  "author": "MUG",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "1.1.0",
+    "http-server": "0.11.1"
+  }
+}
