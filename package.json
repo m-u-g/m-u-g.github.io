@@ -4,7 +4,7 @@
   "description": "MUG (Marca User Group) Website",
   "scripts": {
     "start": "http-server",
-    "deploy": "gh-pages"
+    "deploy": "gh-pages -d ."
   },
   "author": "MUG",
   "license": "MIT",
