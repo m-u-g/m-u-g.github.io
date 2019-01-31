@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<div class="home">
+
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="page-space"></div>
+
+  <!-- Upcoming MUGTalk  -->
+
+  {%- assign events = site.posts | where: 'categories','eventi' -%}
+  {%- assign sorted_events = events | sort: 'date' | reverse -%}
+  {%- if sorted_events.size > 0 -%}
+    {%- assign today = site.time -%}
+    {%- assign post = sorted_events.first -%}
+
+    {%- if post.date >= today -%}
+    <h1 class="page-heading">Prossimo evento</h1>
+    {%- else -%}
+    <h1 class="page-heading">Ultimo evento</h1>
+    {%- endif -%}
+
+    <div class="home-event">
+      <div class="event-title">{{ post.title | escape }}</div>
+      <div class="event-date">{{ post.date | date_to_long_string }}</div>
+      di
+      <div class="event-speaker">{{ post.speaker | escape }}</div>
+      <div class="event-link"><a class="post-link" href="{{ post.url | relative_url }}">Info e biglietti →</a></div>
+    </div>
+
+  {%- endif -%}
+
+  <div class="page-space"></div>
+
+  <!-- All past events  -->
+
+  <h1 class="page-heading">Eventi passati</h1>
+
+  <div class="page-footer">
+    <div class="event-link"><a class="post-link" href="{{ "eventi/" | relative_url }}">Vedi gli eventi passati</a></div>
+  </div>
+
+</div>
