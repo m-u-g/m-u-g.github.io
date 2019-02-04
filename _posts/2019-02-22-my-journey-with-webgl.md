@@ -6,7 +6,7 @@ categories: eventi
 speaker: Luigi De Rosa
 eventbrite_url: https://www.eventbrite.it/e/biglietti-my-journey-with-webgl-55751445073
 image: /assets/images/card-my-journey-with-webgl.png
-summary: "MUGTalk: My Journey with WebGL, Luigi De Rosa"
+summary: "MUGTalk di Luigi De Rosa"
 ---
 Iniziamo alla grande questo 2019 con un'avventura. [Luigi De Rosa](#speaker) ci parlerà della sua esperienza con WebGL.
 
