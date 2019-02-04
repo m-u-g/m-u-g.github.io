@@ -8,7 +8,7 @@ eventbrite_url: https://www.eventbrite.it/e/biglietti-my-journey-with-webgl-5575
 image: /assets/images/card-my-journey-with-webgl.png
 summary: "MUGTalk: My Journey with WebGL, Luigi De Rosa"
 ---
-Iniziamo alla grande questo 2019 con un avventura. [Luigi De Rosa](#speaker) ci parlerà della sua esperienza con WebGL.
+Iniziamo alla grande questo 2019 con un'avventura. [Luigi De Rosa](#speaker) ci parlerà della sua esperienza con WebGL.
 
 L’evento si terrà il 22 febbraio 2019 ed inizierà alle ore 19.00. Saremo ospiti dei nostri amici di [Yalp](#location).
 
