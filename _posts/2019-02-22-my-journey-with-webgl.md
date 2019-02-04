@@ -4,7 +4,7 @@ title: "My journey with WebGL"
 date: 2019-02-22 19:00:00 +0100
 categories: eventi
 speaker: Luigi De Rosa
-eventbrite_url:
+eventbrite_url: https://www.eventbrite.it/e/biglietti-my-journey-with-webgl-55751445073
 ---
 Iniziamo alla grande questo 2019 con un avventura. [Luigi De Rosa](#speaker) ci parlerà della sua esperienza con WebGL.
 
@@ -21,7 +21,8 @@ I biglietti per partecipare saranno disponibili a breve su [EventBrite](#tickets
 {% if page.eventbrite_url %}
 <a id="tickets"></a>
 <h3>Biglietti:</h3>
-Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})
+Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})<br/>
+<small><a href="#privacy-policy">(*) privacy policy eventi</a></small>
 {% endif %}
 
 <a id="speaker"></a>
