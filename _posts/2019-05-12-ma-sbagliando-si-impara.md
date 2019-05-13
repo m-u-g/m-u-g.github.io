@@ -9,7 +9,7 @@ image: /assets/images/card-ma-sbagliando-si-impara.png
 summary: "MUGTalk di Michele Franzin"
 ---
 
-Una domanda semplice che porta ad una risposta mai banale. [Michele](#speaker) ci parlerà della sua esperienza in SeeSaw e cosa il tuo team ha imparato negli anni.
+Una domanda semplice che porta ad una risposta mai banale. [Michele](#speaker) ci parlerà della sua esperienza in SeeSaw e cosa il suo team ha imparato negli anni.
 
 L’evento si terrà il 29 maggio 2019 ed inizierà alle ore 19.00. Saremo ospiti dei nostri amici di [Yalp](#location).
 
