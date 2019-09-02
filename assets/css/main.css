@@ -442,3 +442,19 @@ nav a:hover {
 .post-event .event-date {
     font-style: italic;
 }
+
+.speaker-container {
+    display: block;
+}
+
+.speaker-container img {
+    width: 200px;
+    height: 200px;
+
+    float: right;
+    padding: 0 0 0 20px;
+}
+
+.speaker-container .clear {
+    clear: right;
+}
