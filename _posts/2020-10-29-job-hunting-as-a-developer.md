@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Job Hunting as a Developer"
-date:   2020-19-29 19:00:00 +0100
+date:   2020-10-29 19:00:00 +0100
 speaker: Camilla Feligiotti e Alfio Russo
 categories: eventi
 image: /assets/images/card-job-hunting-as-a-developer.png
 summary: "MUGTalk di Camilla Feligiotti e Alfio Russo"
-eventbrite_url: https://www.eventbrite.it/e/biglietti-piu-potere-per-la-tua-applicazione-se-usi-redis-118820674837
+eventbrite_url: https://www.eventbrite.it/e/biglietti-job-hunting-as-a-developer-124920311013
 ---
 
 Al secondo Incontro "post pandemico" ci avventuriamo a trattare un tema difficile. [Camilla](#speaker) e [Alfio](#speaker) lavorano nel mondo della ricerca e selezione di profili IT. Insieme a loro abbiamo deciso di dedicare la serata a questo difficile tema che ci riguarda tutti. L'obiettivo è creare un canale di dialogo che risolva i conflitti e promuova la collaborazione. Per questa ragione la forma dell'evento cercherà di essere uno "scambio" piuttosto che un flusso monodirezionale.
