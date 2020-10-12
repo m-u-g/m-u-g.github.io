@@ -31,7 +31,7 @@ I biglietti per partecipare sono già disponibili su [EventBrite](#tickets).
 
 <li>Retribuzioni di mercato</li>
 
-<ol>
+</ol>
 
 {% if page.eventbrite_url %}
 <a id="tickets"></a>
