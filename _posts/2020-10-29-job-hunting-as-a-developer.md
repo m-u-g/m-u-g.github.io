@@ -9,6 +9,18 @@ summary: "MUGTalk di Camilla Feligiotti e Alfio Russo"
 eventbrite_url: https://www.eventbrite.it/e/biglietti-job-hunting-as-a-developer-124920311013
 ---
 
+[EDIT]
+
+con gli speaker, abbiamo reputato più saggio fare fallback su un evento remoto 👩‍💻👨‍💻
+👉  Vi aspettiamo comunuqe giovedì 29 alle 19:00 🎬 all'evento "Job Hunting as a Developer" di Camilla Feligiotti e Alfio Russo, al seguente indirizzo
+
+
+<br/><a href="https://www.youtube.com/watch?v=0-zs4lLS2bY" target="_black">https://www.youtube.com/watch?v=0-zs4lLS2bY</a>
+
+<br/>un grazie comunque al Groud Control Coworking per la sua disponibilità e supporto 🙏
+
+<hr/>
+
 Al secondo Incontro "post pandemico" ci avventuriamo a trattare un tema difficile. [Camilla](#speaker) e [Alfio](#speaker) lavorano nel mondo della ricerca e selezione di profili IT. Insieme a loro abbiamo deciso di dedicare la serata a questo difficile tema che ci riguarda tutti. L'obiettivo è creare un canale di dialogo che risolva i conflitti e promuova la collaborazione. Per questa ragione la forma dell'evento cercherà di essere uno "scambio" piuttosto che un flusso monodirezionale.
 
 L’evento si terrà il 29 Ottobre 2020 ed inizierà alle ore 19.00 con un aperitivo (covid <i>compliant</i>). Il talk partirà alle 19.30. Saremo ancora ospiti del ground control coworking, in via Montello 7A a Treviso.
@@ -33,14 +45,6 @@ I biglietti per partecipare sono già disponibili su [EventBrite](#tickets).
 
 </ol>
 
-{% if page.eventbrite_url %}
-<a id="tickets"></a>
-<h3>Biglietti:</h3>
-Il numero di posti è ulteriormente limitato a causa delle normative anti covid. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})<br/>
-<small><a href="#privacy-policy">(*) privacy policy eventi</a></small>
-{% endif %}
-
-
 <a id="speaker"></a>
 <h3>Speaker:</h3>
 
@@ -63,16 +67,3 @@ Il numero di posti è ulteriormente limitato a causa delle normative anti covid.
     </p>
     <p class="clear"></p>
 </div>
-
-<a id="location"></a>
-<h3>Location:</h3>
-
-Ground Control Coworking<br/>
-Via Montello 7A, 31100 Treviso<br/>
-[www.groundcontrolcoworking.com](https://www.groundcontrolcoworking.com/) [Facebook](https://www.facebook.com/groundcontrolcoworking)
-
-<p>
-    La location non è immediata da trovare così abbiamo messo una piccola mappa per aiutarvi.
-</p>
-
-<img src="/assets/images/mappa.png" />
