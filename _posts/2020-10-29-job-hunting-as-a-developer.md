@@ -12,8 +12,7 @@ eventbrite_url: https://www.eventbrite.it/e/biglietti-job-hunting-as-a-developer
 [EDIT]
 
 con gli speaker, abbiamo reputato più saggio fare fallback su un evento remoto 👩‍💻👨‍💻
-👉  Vi aspettiamo comunuqe giovedì 29 alle 19:00 🎬 all'evento "Job Hunting as a Developer" di Camilla Feligiotti e Alfio Russo, al seguente indirizzo
-
+<br/>👉  Vi aspettiamo comunuqe giovedì 29 alle 19:00 🎬 all'evento "Job Hunting as a Developer" di Camilla Feligiotti e Alfio Russo, al seguente indirizzo
 
 <br/><a href="https://www.youtube.com/watch?v=0-zs4lLS2bY" target="_black">https://www.youtube.com/watch?v=0-zs4lLS2bY</a>
 
@@ -23,11 +22,7 @@ con gli speaker, abbiamo reputato più saggio fare fallback su un evento remoto 
 
 Al secondo Incontro "post pandemico" ci avventuriamo a trattare un tema difficile. [Camilla](#speaker) e [Alfio](#speaker) lavorano nel mondo della ricerca e selezione di profili IT. Insieme a loro abbiamo deciso di dedicare la serata a questo difficile tema che ci riguarda tutti. L'obiettivo è creare un canale di dialogo che risolva i conflitti e promuova la collaborazione. Per questa ragione la forma dell'evento cercherà di essere uno "scambio" piuttosto che un flusso monodirezionale.
 
-L’evento si terrà il 29 Ottobre 2020 ed inizierà alle ore 19.00 con un aperitivo (covid <i>compliant</i>). Il talk partirà alle 19.30. Saremo ancora ospiti del ground control coworking, in via Montello 7A a Treviso.
-
-NB la cena post-evento non si terrà per ragioni di sicurezza legate alla situazione contagi. Conserviamo l'aperitivo, rigorosamente "in maschera" 😷, come momento conviviale.
-
-I biglietti per partecipare sono già disponibili su [EventBrite](#tickets).
+L’evento si terrà il 29 Ottobre 2020 ed inizierà alle ore 19.00 online
 
 <h3>Abstract:</h3>
 
