@@ -12,7 +12,7 @@ eventbrite_url: https://www.eventbrite.it/e/biglietti-job-hunting-as-a-developer
 [EDIT]
 
 con gli speaker, abbiamo reputato più saggio fare fallback su un evento remoto 👩‍💻👨‍💻
-<br/>👉  Vi aspettiamo comunuqe giovedì 29 alle 19:00 🎬 all'evento "Job Hunting as a Developer" di Camilla Feligiotti e Alfio Russo, al seguente indirizzo
+<br/>👉  Vi aspettiamo comunque giovedì 29 alle 19:00 🎬 all'evento "Job Hunting as a Developer" di Camilla Feligiotti e Alfio Russo, al seguente indirizzo
 
 <br/><a href="https://www.youtube.com/watch?v=0-zs4lLS2bY" target="_black">https://www.youtube.com/watch?v=0-zs4lLS2bY</a>
 
