@@ -6,7 +6,7 @@ categories: eventi
 speaker: Marco Gomiero
 image: /assets/images/card-kotlin-multiplatform.png
 summary: "MUGTalk di Marco Gomiero"
-youtube_url: https://www.youtube.com/channel/UCpLX7o7DYs1RDa6YjlFk1Cw
+youtube_url: https://www.youtube.com/watch?v=En1vTKryxB4
 ---
 
 Nonostante le difficoltà che hanno contraddistinto questo 2020, noi di MUG teniamo duro e organizziamo nuovi talk con argomenti sempre nuovi.
