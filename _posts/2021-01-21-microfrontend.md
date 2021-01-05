@@ -23,7 +23,7 @@ L’evento si terrà il 21 gennaio 2021 alle 18.30 in live in streaming su [YouT
 <h3>Speaker:</h3>
 
 <div class="speaker-container">
-    <img src="/assets/images/speaker-mirco-bellagamba.jpeg" />
+    <img src="/assets/images/speaker-mirco-bellagamba.jpg" />
     <p>
         Mirco Bellagamba,
         <a href="https://twitter.com/mircobellaG">Twitter</a>
