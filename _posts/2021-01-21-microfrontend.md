@@ -6,7 +6,7 @@ categories: eventi
 speaker: Mirco Bellagamba
 image: /assets/images/card-microfrontend-istruzioni-per-l-uso.png
 summary: "MUGTalk di Mirco Bellagamba"
-youtube_url: TODO
+youtube_url: https://www.youtube.com/watch?v=7UraMZ94aAw
 ---
 
 Nonostante le difficoltà che hanno contraddistinto il 2020 e che continuano ad esserci nel 2021, noi di MUG teniamo duro e organizziamo nuovi talk con argomenti sempre nuovi.
