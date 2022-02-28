@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Can typescript definitions survive even at runtime? "
+title:  "Can typescript definitions survive even at runtime?"
 date:   2022-03-10 19:00:00 +0100
 categories: eventi
 speaker: Luca Del Puppo
