@@ -40,11 +40,13 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 <h3>Speaker:</h3>
 
 <div class="speaker-container">
-Nato a Chiavenna, sulle Alpi Retiche, mi sono trasferito a Siena per studiare Interaction Design unendo la mia passione per il codice con quella per la progettazione e le scienze del comportamento. Ho trovato il mio punto di forza lavorando sulle single page application senza mai dimenticare la prospettiva dell’utente. Questo mi permette di essere spesso il ponte tra lo sviluppo e la UX. Attento alle metodologie agili sono anche un contributor appassionato della governace di Flowing, interessato al mondo dell’adaptive organization design. Partecipo alla community come organizzatore dello user group trevigiano MUG. Nel tempo libero pedalo per giri interminabili e partecipo ad eventi bikepacking.
+<p>
+    Nato a Chiavenna, sulle Alpi Retiche, mi sono trasferito a Siena per studiare Interaction Design unendo la mia passione per il codice con quella per la progettazione e le scienze del comportamento. Ho trovato il mio punto di forza lavorando sulle single page application senza mai dimenticare la prospettiva dell’utente. Questo mi permette di essere spesso il ponte tra lo sviluppo e la UX. Attento alle metodologie agili sono anche un contributor appassionato della governace di Flowing, interessato al mondo dell’adaptive organization design. Partecipo alla community come organizzatore dello user group trevigiano MUG. Nel tempo libero pedalo per giri interminabili e partecipo ad eventi bikepacking.
+</p>
 
     <img src="/assets/images/speaker-antonio.jpeg" />
     <p>
-        Antonio Dell'Ava<br/>,
+        Antonio Dell'Ava,
         <a href="https://twitter.com/creativecaos">Twitter</a>
     </p>
     <p>
