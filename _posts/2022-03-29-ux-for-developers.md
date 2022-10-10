@@ -2,6 +2,7 @@
 layout: post
 title:  "Ux for developers"
 date:   2022-04-14 19:00:00 +0100
+speaker: Antonio Dell'Ava
 categories: eventi
 image: /assets/images/card-ux.png
 summary: "MUGTalk di Antonio Dell'Ava"
