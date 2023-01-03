@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Dall’analisi all’implementazione con OpenAPI"
-speaker: Michele Mauro
+speaker: Kliment Ratkushinoski
 date:   2023-01-24 19:00:00 +0100
 categories: eventi
 image: /assets/images/card-ratkushinoski.png
-summary: "MUGTalk di Michele Mauro"
+summary: "MUGTalk di Kliment Ratkushinoski"
 eventbrite_url: https://www.eventbrite.it/e/biglietti-dallanalisi-allimplementazione-con-openapi-502677872047
 ---
 
-Iniziamo il 2023 con il talk di [Kliment e Michele](#speaker) su come far collaborare team diversi in modo efficacie usando lo standard OpenAPI.
+Iniziamo il 2023 con il talk di [Kliment](#speaker), su come far collaborare team diversi in modo efficacie usando lo standard OpenAPI.
 
 L'evento si terrà il 24 Gennaio 2023 ed inizierà alle ore 19.00. Saremo ospiti negli uffici di [Aton S.p.A.](#location) a Villorba.
 
@@ -35,7 +35,7 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 
 <a id="speaker"></a>
 
-<h3>Speakers:</h3>
+<h3>Speaker:</h3>
 
 <div class="speaker-container">
     <img src="/assets/images/speaker-kliment-ratkushinoski.jpg" />
@@ -43,18 +43,6 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
         Kliment Ratkushinoski,<br />
         <i>Software Developer Analyst</i><br />
         <a href="https://www.linkedin.com/in/klimentr/">Linkedin</a>
-    </p>
-    <p>
-    </p>
-    <p class="clear"></p>
-</div>
-
-<div class="speaker-container">
-    <img src="/assets/images/speaker-michele-mauro.jpeg" />
-    <p>
-        Michele Mauro,<br />
-        <i>Senior Software Engineer</i><br />
-        <a href="https://www.linkedin.com/in/mauromichele/">Linkedin</a>
     </p>
     <p>
     </p>
