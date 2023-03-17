@@ -6,7 +6,7 @@ date: 2023-03-28 19:00:00 +0100
 categories: eventi
 image: /assets/images/card-dx.png
 summary: "MUGTalk su Playwright di Gaspare Vitta"
-eventbrite_url: https://www.eventbrite.it/e/biglietti-write-one-time-test-everywhere-with-playwright-530555264077
+eventbrite_url: https://www.eventbrite.it/e/biglietti-speed-up-your-team-with-a-great-dx-592062042507
 ---
 
 Per il mese di Marzo, [Gaspare](#speaker) ci parlerà di DX ovvero della developer experience.
