@@ -5,7 +5,7 @@ speaker: Gaspare Vitta
 date: 2023-03-28 19:00:00 +0100
 categories: eventi
 image: /assets/images/card-dx.png
-summary: "MUGTalk su Playwright di Gaspare Vitta"
+summary: "MUGTalk sulla Developer Experience di Gaspare Vitta"
 eventbrite_url: https://www.eventbrite.it/e/biglietti-speed-up-your-team-with-a-great-dx-592062042507
 ---
 
@@ -37,7 +37,7 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
     <img src="/assets/images/speaker-gaspare-vitta-2023.jpeg" />
     <p>
         Gaspare Vitta,<br />
-        <i>DevOps @Qarik Group</i><br />
+        <i>DevOps @ Qarik Group</i><br />
         <a href="https://www.linkedin.com/in/gasparevitta/">Linkedin</a>
     </p>
     <p>
