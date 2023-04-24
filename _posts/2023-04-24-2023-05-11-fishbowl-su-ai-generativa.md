@@ -6,6 +6,7 @@ date:   2023-05-11 19:00:00 +0100
 categories: eventi
 image: /assets/images/mug-maggio-2023.png
 summary: "Un evento partecipativo sul tema dell'intelligenza artificiale"
+eventbrite_url: https://www.eventbrite.it/e/biglietti-artificial-intelligence-fishbowl-623606482777
 ---
 
 Per Maggio abbiamo pensato ad un evento particolare, nessuno speaker ma un format partecipativo in cui i partecipanti possono essere parte integrante della discussione Durante l'evento avremo una discussione semi strutturata attorno all'argomento "Artificial Intelligence".
