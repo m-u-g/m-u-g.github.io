@@ -6,7 +6,7 @@ speaker: Stefano Busato
 categories: eventi
 image: /assets/images/card-api-web-audio.png
 summary: "Fare musica con le API Web Audio di Stefano Busato"
-eventbrite_url: https://www.eventbrite.it/e/biglietti-speed-up-your-team-with-a-great-dx-592062042507
+eventbrite_url: https://www.eventbrite.it/e/biglietti-questo-beat-spacca-browser-fare-musica-con-le-api-web-audio-640718415027
 ---
 
 Per il mese di Giugno, [Stefano](#speaker) ci insegnerà come fare musica dal nostro browser, usando le API Web Audio.
