@@ -207,9 +207,9 @@ nav a:hover {
 
     nav a {
         float: left;
-        width: 27%;
-        margin: 0 1.7%;
-        padding: 33px 2% 17px 2%;
+        width: 21%;
+        margin: 0 1%;
+        padding: 28px 1% 22px 1%;
         margin-bottom: 0;
     }
 
@@ -257,7 +257,7 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 38%;
+        width: 45%;
     }
 
 /* ============
