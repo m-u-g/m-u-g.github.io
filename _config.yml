@@ -43,5 +43,4 @@ exclude:
 header_pages:
   - index.md
   - events.md
-  - community.md
   - partners.md
