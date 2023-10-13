@@ -20,7 +20,7 @@ permalink: /partners/
 
 </ul>
 
-# Community
+# Communities
 
 <ul class="partners-container">
 
