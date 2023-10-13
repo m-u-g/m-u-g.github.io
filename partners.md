@@ -13,8 +13,20 @@ permalink: /partners/
     </li>
 
     <li>
+        <a href="https://www.moku.io/" target="_black">
+            <img src="{{ "/assets/images/partner-moku.jpg" | relative_url }}" alt="moku" title="Logo moku">
+        </a>
+    </li>
+
+</ul>
+
+# Community
+
+<ul class="partners-container">
+
+    <li>
         <a href="https://www.grusp.org/" target="_black">
-            <img src="{{ "/assets/images/grusp-corsivo.png" | relative_url }}" alt="Grusp" title="Logo Grusp">
+            <img src="{{ "/assets/images/partner-grusp.png" | relative_url }}" alt="Grusp" title="Logo Grusp">
         </a>
     </li>
 
@@ -27,14 +39,6 @@ permalink: /partners/
     <li>
         <a href="https://gdg.community.dev/gdg-venezia/" target="_black">
             <img src="{{ "/assets/images/partner-gdgvenezia.svg" | relative_url }}" alt="GDG Venezia" title="Logo GDG Venezia">
-        </a>
-    </li>
-
-    <!-- TODO Android Developer Italia -->
-    <!-- TODO moku -->
-    <li>
-        <a href="https://www.moku.io/" target="_black">
-            <img src="{{ "/assets/images/partner-moku.jpg" | relative_url }}" alt="moku" title="Logo moku">
         </a>
     </li>
 </ul>
