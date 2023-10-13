@@ -463,3 +463,25 @@ nav a:hover {
 .speaker-container .clear {
     clear: right;
 }
+
+.partners-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+    padding-left: 0;
+}
+
+.partners-container > li {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    flex-basis: 300px;
+}
+
+.partners-container li a img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
