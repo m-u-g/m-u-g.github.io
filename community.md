@@ -4,9 +4,8 @@ title: Community
 permalink: /community/
 ---
 
-Discutiamo quotidianamente di tecnologia e di come far evolvere la nostra community su Slack. Vuoi unirti anche tu?
-[le porte sono aperte!](https://mug-slack-inviter.herokuapp.com/)
+Discutiamo di tecnologia sul nostro gruppo Telegram. [Unisciti anche tu!](https://t.me/marcausergroup/).
 
-Abbiamo anche una nostra organizzazione su [github](https://github.com/m-u-g) dove condividiamo i nostri progetti.
+Ci trovi anche su [facebook](https://www.facebook.com/MarcaUserGroup) e [LinkedIn](https://www.linkedin.com/company/mug-marca-user-group), dove condividiamo tutti gli eventi che organizziamo.
 
-E una board su [Trello](https://trello.com/b/cbJeCFJR/mug-setup) dove condividiamo le nostre attività.
+Abbiamo anche un'organizzazione su [github](https://github.com/m-u-g) dove hostiamo i nostri progetti.
