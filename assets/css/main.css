@@ -477,10 +477,12 @@ nav a:hover {
     align-items: center;
     list-style-type: none;
     flex-basis: 300px;
+    min-height: 200px;
 }
 
 .partners-container li a img {
     object-fit: cover;
+    min-width: 300px;
     width: 100%;
     height: auto;
     vertical-align: middle;
