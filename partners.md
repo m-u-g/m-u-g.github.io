@@ -18,6 +18,18 @@ permalink: /partners/
         </a>
     </li>
 
+    <li>
+        <a href="https://wavelop.com/?utm_source=marcausergroup&utm_medium=website&utm_campaign=partners" target="_black">
+            <img src="{{ "/assets/images/partner-wavelop.jpg" | relative_url }}" alt="Wavelop" title="Logo Wavelop">
+        </a>
+    </li>
+
+    <li>
+        <a href="https://aton.com?utm_source=marcausergroup&utm_medium=website&utm_campaign=partners" target="_black">
+            <img src="{{ "/assets/images/partner-aton.png" | relative_url }}" alt="Aton" title="Logo Aton">
+        </a>
+    </li>
+
 </ul>
 
 # Communities
