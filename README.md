@@ -2,7 +2,7 @@
 
 MUG (Marca User Group) Website
 
-[![Slack Status](https://mug-slack-inviter.herokuapp.com/badge.svg)](https://mug-slack-inviter.herokuapp.com)
+Join us on [Telegram](https://t.me/marcausergroup)
 
 ## Development
 
