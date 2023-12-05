@@ -20,7 +20,7 @@ permalink: /partners/
 
     <li>
         <a href="https://wavelop.com/?utm_source=marcausergroup&utm_medium=website&utm_campaign=partners" target="_black">
-            <img src="{{ "/assets/images/partner-wavelop.jpg" | relative_url }}" alt="Wavelop" title="Logo Wavelop">
+            <img src="{{ "/assets/images/partner-wavelop.svg" | relative_url }}" alt="Wavelop" title="Logo Wavelop">
         </a>
     </li>
 
