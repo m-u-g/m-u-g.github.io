@@ -28,6 +28,7 @@ github_username:  m-u-g
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Generate post dated in the future
 future: true
