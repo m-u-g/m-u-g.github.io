@@ -4,7 +4,7 @@ title:  "Decifrando il Design System: Trasformare le Linee Guida in realtà nel 
 date:   2024-02-29 19:00:00 +0100
 speaker: Razvan Dimulescu
 categories: eventi
-image: /assets/images/card-design-system_2024.jpg
+image: /assets/images/card-design-system_2024.png
 summary: "Alexa è il celebre assistente vocale messo a disposizione da Amazon. Si può usare tramite gli speaker della serie Echo ma anche con l'app."
 eventbrite_url: https://www.eventbrite.it/e/biglietti-decifrando-il-design-system-832356750447
 ---
@@ -39,6 +39,7 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
         Razvan Dimulescu
     </p>
     <p>
+        Mi chiamo Razvan Dimulescu, per gli amici Raz e sono un Frontend Developer. Sono originario della Romania, ma attualmente risiedo in Italia, dove lavoro con Angular e TaigaUI presso Aton S.p.A. Società Benefit. Al di fuori del lavoro, mi puoi trovare in montagna, sullo snowboard , a fare escursioni o ad arrampicarmi.
     </p>
     <p class="clear"></p>
 
