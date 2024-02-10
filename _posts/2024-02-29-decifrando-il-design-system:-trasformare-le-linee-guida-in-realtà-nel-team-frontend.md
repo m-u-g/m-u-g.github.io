@@ -34,7 +34,7 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 
 <div class="speaker-container">
 
-    <img src="/assets/images/Razvan.jpg" />
+    <img src="/assets/images/Razvan.png" />
     <p>
         Razvan Dimulescu
     </p>
