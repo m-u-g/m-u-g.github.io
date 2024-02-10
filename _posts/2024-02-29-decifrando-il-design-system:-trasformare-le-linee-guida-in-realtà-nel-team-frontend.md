@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Decifrando il Design System: Trasformare le Linee Guida in realtà nel Team Frontend"
+title:  "Decifrando il Design System"
 date:   2024-02-29 19:00:00 +0100
 speaker: Razvan Dimulescu
 categories: eventi
 image: /assets/images/card-design-system_2024.png
-summary: "Alexa è il celebre assistente vocale messo a disposizione da Amazon. Si può usare tramite gli speaker della serie Echo ma anche con l'app."
+summary: "Decifrando il Design System: Trasformare le Linee Guida in realtà nel Team Frontend."
 eventbrite_url: https://www.eventbrite.it/e/biglietti-decifrando-il-design-system-832356750447
 ---
 
