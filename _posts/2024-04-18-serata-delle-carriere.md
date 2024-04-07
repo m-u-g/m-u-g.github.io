@@ -47,4 +47,4 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 
 <h3>Location:</h3>
 
-[Ground Control Coworking<br />Via Montello 7A, Treviso](https://www.google.com/maps/dir//Via+Tommaso+da+Modena,+8,+31100+Treviso+TV/@45.6616737,12.1643282,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x477949d448d9ae83:0x49d918c81a78480e!2m2!1d12.2467288!2d45.6617033)
+[Yalp!<br />Via Tommaso da Modena, 8, Treviso](https://www.google.com/maps/dir//Via+Tommaso+da+Modena,+8,+31100+Treviso+TV/@45.6616737,12.1643282,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x477949d448d9ae83:0x49d918c81a78480e!2m2!1d12.2467288!2d45.6617033)
