@@ -4,22 +4,22 @@ title:  "Raccontiamo le nostre carriere nel mondo del Software"
 date:   2024-4-18 19:00:00 +0100
 speaker: Razvan Dimulescu
 categories: eventi
-image: /assets/images/card-design-system_2024.png
+image: /assets/images/card-serata-carriere.png
 summary: "4 professionisti del mondo software raccontano il proprio percorso di carriera e le proprie scelte"
-eventbrite_url: https://www.eventbrite.it/e/biglietti-decifrando-il-design-system-832356750447
+eventbrite_url: https://www.eventbrite.it/e/biglietti-raccontiamo-le-nostre-carriere-nel-mondo-del-software-878982479257
 ---
 
-Questo mese, [Razvan](#speaker) ci parlerà di "Design System".
+Questo mese, proponiamo un evento dal formato alternativo, 4 professionisti racconteranno il proprio percorso di carriera.
 
-L'evento si terrà il 29 Febbraio 2024 ed inizierà alle ore 19.00. Saremo ospiti di [Ground Control Coworking](#location) in centro a Treviso.
+L'evento si terrà il 18 aprile 2024 ed inizierà alle ore 19.00. Saremo ospiti di [Yalp](#location) in centro a Treviso.
 
 I biglietti per partecipare sono già disponibili su [EventBrite](#tickets).
 
 <h3>Abstract:</h3>
 
-L'ambito del design e dello sviluppo sta progressivamente convergendo verso una standardizzazione mirata all'efficienza, resa possibile dall'adozione di un Design System. Questi sistemi, organizzati in componenti, linee guida e principi, offrono un approccio strutturato per creare esperienze utente coerenti e di alta qualità. Consentono di definire un linguaggio univoco e comprensibile a tutti i team. Inoltre, fungono da catalizzatore per garantire consistenza visiva e funzionale, scalabilità e facilità di manutenzione.
+Il mondo del lavoro diventa sempre più complesso e articolato. Fare la scelta giusta e orientarsi è difficile.
 
-Tuttavia, mettere in pratica un Design System è una sfida e richiede decisioni audaci. Scopriamo insieme come trasformare le linee guida in azioni tangibili, esplorando il viaggio del team Frontend di Aton verso il cambiamento.
+In questo contesto il buon esempio conta. In questa serata 4 diversi professionisti del mondo software raccontano il proprio percorso di carriera e le proprie scelte.
 
 {% if page.eventbrite_url %}
 <a id="tickets"></a>
@@ -30,23 +30,15 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 {% endif %}
 
 <a id="speaker"></a>
-<h3>Speaker:</h3>
 
-<div class="speaker-container">
 
-    <img src="/assets/images/Razvan.png" />
-    <p>
-        Razvan Dimulescu
-    </p>
-    <p>
-        Mi chiamo Razvan Dimulescu, per gli amici Raz e sono un Frontend Developer. Sono originario della Romania, ma attualmente risiedo in Italia, dove lavoro con Angular e TaigaUI presso Aton S.p.A. Società Benefit. Al di fuori del lavoro, mi puoi trovare in montagna, sullo snowboard , a fare escursioni o ad arrampicarmi.
-    </p>
-    <p class="clear"></p>
-
-</div>
+- [Alessandrea Laderchi](https://www.linkedin.com/in/alessandra-laderchi/) - Frontend Software Engineer @ eDreams ODIGEO | Conference Organizer
+- [Francesco Strazzullo](https://www.linkedin.com/in/francescostrazzullo/) - Chief Operating Officer @ Claranet Italy. Author of "Decision-making for Software Development Teams"
+- [Luca Del Puppo](https://www.linkedin.com/in/lucadelpuppo/) - Senior Software Developer @ Nearform | Microsoft MVP | Google Developer Expert | Speaker | @gitkraken ambassador
+- [Giorgio Boa](https://www.linkedin.com/in/giorgio-boa/) - Sr. Software Engineer @ Qarik
 
 <a id="location"></a>
 
 <h3>Location:</h3>
 
-[Ground Control Coworking<br />Via Montello 7A, Treviso](https://maps.app.goo.gl/VVDLiexmprHsaF9Y7)
+[Ground Control Coworking<br />Via Montello 7A, Treviso](https://www.google.com/maps/dir//Via+Tommaso+da+Modena,+8,+31100+Treviso+TV/@45.6616737,12.1643282,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x477949d448d9ae83:0x49d918c81a78480e!2m2!1d12.2467288!2d45.6617033)
