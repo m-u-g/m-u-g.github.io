@@ -31,16 +31,16 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 
 <a id="speaker"></a>
 
-[Alessandrea Laderchi](https://www.linkedin.com/in/alessandra-laderchi/) - Frontend Software Engineer @ eDreams ODIGEO | Conference Organizer
+[Alessandrea Laderchi](https://www.linkedin.com/in/alessandra-laderchi/) - Frontend Software Engineer @eDreams ODIGEO Conference Organizer
 
 
-[Francesco Strazzullo](https://www.linkedin.com/in/francescostrazzullo/) - Chief Operating Officer @ Claranet Italy. Author of "Decision-making for Software Development Teams"
+[Francesco Strazzullo](https://www.linkedin.com/in/francescostrazzullo/) - Chief Operating Officer @ laranet Italy. Author of "Decision-making for Software Development Teams"
 
 
-[Luca Del Puppo](https://www.linkedin.com/in/lucadelpuppo/) - Senior Software Developer @ Nearform | Microsoft MVP | Google Developer Expert | Speaker | @gitkraken ambassador
+[Luca Del Puppo](https://www.linkedin.com/in/lucadelpuppo/) - Senior Software Developer @Nearform, Microsoft MVP, Google Developer Expert, Speaker, @gitkraken ambassador
 
 
-[Giorgio Boa](https://www.linkedin.com/in/giorgio-boa/) - Sr. Software Engineer @ Qarik
+[Giorgio Boa](https://www.linkedin.com/in/giorgio-boa/) - Sr. Software Engineer @Qarik
 
 
 <a id="location"></a>
