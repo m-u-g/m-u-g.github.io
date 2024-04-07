@@ -21,14 +21,6 @@ Il mondo del lavoro diventa sempre più complesso e articolato. Fare la scelta g
 
 In questo contesto il buon esempio conta. In questa serata 4 diversi professionisti del mondo software raccontano il proprio percorso di carriera e le proprie scelte.
 
-{% if page.eventbrite_url %}
-<a id="tickets"></a>
-
-<h3>Biglietti:</h3>
-Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})<br/>
-<small><a href="#privacy-policy">(*) privacy policy eventi</a></small>
-{% endif %}
-
 <a id="speaker"></a>
 
 [Alessandrea Laderchi](https://www.linkedin.com/in/alessandra-laderchi/) - Frontend Software Engineer @eDreams ODIGEO Conference Organizer
@@ -41,6 +33,14 @@ Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un 
 
 
 [Giorgio Boa](https://www.linkedin.com/in/giorgio-boa/) - Sr. Software Engineer @Qarik
+
+{% if page.eventbrite_url %}
+<a id="tickets"></a>
+
+<h3>Biglietti:</h3>
+Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})<br/>
+<small><a href="#privacy-policy">(*) privacy policy eventi</a></small>
+{% endif %}
 
 
 <a id="location"></a>
