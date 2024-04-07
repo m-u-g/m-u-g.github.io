@@ -26,7 +26,7 @@ In questo contesto il buon esempio conta. In questa serata 4 diversi professioni
 [Alessandrea Laderchi](https://www.linkedin.com/in/alessandra-laderchi/) - Frontend Software Engineer @eDreams ODIGEO Conference Organizer
 
 
-[Francesco Strazzullo](https://www.linkedin.com/in/francescostrazzullo/) - Chief Operating Officer @ laranet Italy. Author of "Decision-making for Software Development Teams"
+[Francesco Strazzullo](https://www.linkedin.com/in/francescostrazzullo/) - Chief Operating Officer @Claranet Italy. Author of "Decision-making for Software Development Teams"
 
 
 [Luca Del Puppo](https://www.linkedin.com/in/lucadelpuppo/) - Senior Software Developer @Nearform, Microsoft MVP, Google Developer Expert, Speaker, @gitkraken ambassador
