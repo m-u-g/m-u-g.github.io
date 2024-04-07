@@ -2,7 +2,7 @@
 layout: post
 title:  "Raccontiamo le nostre carriere nel mondo del Software"
 date:   2024-4-18 19:00:00 +0100
-speaker: Razvan Dimulescu
+speaker: Alessandra Laderchi, Francesco Strazzullo, Luca Del Puppo, Giorgio Boa
 categories: eventi
 image: /assets/images/card-serata-carriere.png
 summary: "4 professionisti del mondo software raccontano il proprio percorso di carriera e le proprie scelte"
