@@ -6,7 +6,7 @@ speaker: Matteo Granzotto
 categories: eventi
 image: /assets/images/open-policy.png
 summary: "Scopri come utilizzare Open Policy Agent per scrivere le policy di autorizzazione come codice"
-eventbrite_url: https://www.eventbrite.it/TBD
+eventbrite_url: https://www.eventbrite.it/e/biglietti-policy-as-code-open-policy-agent-1286169029189
 ---
 
 Questo mese è il turno di Mattero Granzotto, fondatore di Wavelop e fullstack javascript deveveloper, che ci parlerà di Open Policy Agent.
@@ -29,7 +29,6 @@ Matteo Granzotto è uno dei founder di Wavelop, una software house di Treviso ch
 Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})<br/>
 <small><a href="#privacy-policy">(*) privacy policy eventi</a></small>
 {% endif %}
-
 
 <a id="location"></a>
 
