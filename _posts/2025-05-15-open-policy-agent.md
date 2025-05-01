@@ -9,7 +9,7 @@ summary: "Scopri come utilizzare Open Policy Agent per scrivere le policy di aut
 eventbrite_url: https://www.eventbrite.it/e/biglietti-policy-as-code-open-policy-agent-1286169029189
 ---
 
-Questo mese è il turno di Mattero Granzotto, fondatore di Wavelop e fullstack javascript deveveloper, che ci parlerà di Open Policy Agent.
+Questo mese è il turno di Matteo Granzotto, fondatore di Wavelop e fullstack javascript deveveloper, che ci parlerà di Open Policy Agent.
 
 L'evento si terrà Giovedì 15 Maggio 2025 presso la sede di [FABA srl](https://maps.app.goo.gl/23Ea7TMTbzXpn7Ew7), ed inizierà alle ore 19.00 per chiudersi alle 20:00 circa.
 
