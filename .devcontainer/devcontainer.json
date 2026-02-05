@@ -1,0 +1,23 @@
+{
+  "name": "MUG Site Dev Container",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "postCreateCommand": "bundle install",
+  "forwardPorts": [
+    4000
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-azuretools.vscode-docker",
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "ms-vscode-remote.remote-containers",
+        "anthropic.claude-code"
+      ]
+    }
+  },
+  "updateRemoteUserUID": true
+}
