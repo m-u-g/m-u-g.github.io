@@ -6,6 +6,7 @@ speaker: Davide Milan
 categories: eventi
 image: /assets/images/astro.jpg
 summary: "Scopri come costruire siti web veloci con Astro, il framework che elimina il JavaScript superfluo e sfrutta le capacità native del browser"
+eventbrite_url: https://www.eventbrite.it/e/biglietti-mug-astro-performance-stellari-per-siti-web-orientati-ai-contenuti-1982803548790
 ---
 
 Il MUG torna con un nuovo talk tecnico. Giovedì 26 febbraio Davide Milan ci parlerà di [Astro](https://astro.build), il framework che ripensa lo sviluppo frontend mettendo al centro le performance.
@@ -46,4 +47,4 @@ Ingresso gratuito. Biglietti disponibili a breve su EventBrite.
 
 [Wavelop<br />Via Tomaso da Modena 8, 31100 Treviso (TV)](https://maps.app.goo.gl/D58pFjZqViPpiwUV8)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2788.4585685115226!2d12.244102077211421!3d45.661693771077914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477949b9a24eb9ad%3A0x127b50d6706b48ca!2sWavelop%20-%20Soluzioni%20digitali%20per%20il%20tuo%20business%20-%20Coworking!5e0!3m2!1sit!2sit!4v1770315244162!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe style="width: 100%; max-width: 100%; border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2788.4585685115226!2d12.244102077211421!3d45.661693771077914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477949b9a24eb9ad%3A0x127b50d6706b48ca!2sWavelop%20-%20Soluzioni%20digitali%20per%20il%20tuo%20business%20-%20Coworking!5e0!3m2!1sit!2sit!4v1770315244162!5m2!1sit!2sit" width="600" height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
