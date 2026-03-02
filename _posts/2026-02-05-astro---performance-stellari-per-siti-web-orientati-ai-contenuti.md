@@ -33,12 +33,14 @@ Giovedì 26 febbraio 2026 dalle ore 19:00.
 
 <a id="tickets"></a>
 
+{% if site.time < page.date %}
 <h3>Biglietti:</h3>
 {% if page.eventbrite_url %}
 Ingresso gratuito. Il numero di posti è limitato. Per partecipare dovete registrarvi prendendo un biglietto da [EventBrite]({{ page.eventbrite_url }})<br/>
 <small><a href="#privacy-policy">(*) privacy policy eventi</a></small>
 {% else %}
 Ingresso gratuito. Biglietti disponibili a breve su EventBrite.
+{% endif %}
 {% endif %}
 
 <a id="location"></a>
