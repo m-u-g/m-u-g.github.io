@@ -3,46 +3,118 @@ layout: default
 ---
 <div class="home">
 
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">{{ page.hero.title | default: "Marca User Group" }}</h1>
+      <p class="hero-subtitle">{{ page.hero.subtitle | default: "La community tech del territorio trevigiano" }}</p>
 
-  {{ content }}
+      {%- if page.hero.badges -%}
+      <div class="hero-badges">
+        {%- for badge in page.hero.badges -%}
+        <span class="badge">{{ badge }}</span>
+        {%- endfor -%}
+      </div>
+      {%- endif -%}
 
-  <div class="page-space"></div>
+      {%- if page.hero.cta_text -%}
+      <a href="{{ page.hero.cta_link }}" class="btn-primary hero-cta">{{ page.hero.cta_text }} →</a>
+      {%- endif -%}
+    </div>
+  </section>
 
-  <!-- Upcoming MUGTalk  -->
-
+  <!-- Upcoming Event Highlight -->
   {%- assign events = site.posts | where: 'categories','eventi' -%}
   {%- assign sorted_events = events | sort: 'date' | reverse -%}
   {%- if sorted_events.size > 0 -%}
     {%- assign today = site.time -%}
     {%- assign post = sorted_events.first -%}
 
-    {%- if post.date >= today -%}
-    <h1 class="page-heading">Prossimo evento</h1>
-    {%- else -%}
-    <h1 class="page-heading">Ultimo evento</h1>
-    {%- endif -%}
+    <section class="upcoming-event-section">
+      <div class="event-card-hero">
+        <div class="event-card-header">
+          {%- if post.date >= today -%}
+          <span class="event-badge">Prossimo evento</span>
+          {%- else -%}
+          <span class="event-badge">Ultimo evento</span>
+          {%- endif -%}
+        </div>
 
-    <div class="home-event">
-      <div class="event-title">{{ post.title | escape }}</div>
-      <div class="event-date">{{ post.date | date_to_long_string }}</div>
-      di
-      <div class="event-speaker">{{ post.speaker | escape }}</div>
-      <div class="event-link"><a class="post-link" href="{{ post.url | relative_url }}">Info e biglietti →</a></div>
-    </div>
+        <h2 class="event-title-hero">{{ post.title | escape }}</h2>
 
+        <div class="event-meta">
+          <div class="event-speaker-meta">
+            <strong>Speaker:</strong> {{ post.speaker | escape }}
+          </div>
+          <div class="event-date-meta">
+            <strong>Data:</strong> {{ post.date | date: "%d %B %Y" }}
+          </div>
+        </div>
+
+        {%- if post.excerpt -%}
+        <p class="event-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        {%- endif -%}
+
+        <div class="event-actions">
+          <a href="{{ post.url | relative_url }}" class="btn-secondary">Maggiori informazioni</a>
+        </div>
+      </div>
+    </section>
   {%- endif -%}
 
-  <div class="page-space"></div>
+  <!-- About MUG Section -->
+  <section class="about-section">
+    <div class="about-content">
+      <h2 class="section-heading">Chi siamo</h2>
+      {{ content }}
 
-  <!-- All past events  -->
+      {%- if page.about.show_stats -%}
+      <div class="stats-container">
+        <div class="stat-item">
+          <div class="stat-number">{{ site.posts | size }}+</div>
+          <div class="stat-label">Eventi</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">4+</div>
+          <div class="stat-label">Partner</div>
+        </div>
+      </div>
+      {%- endif -%}
+    </div>
+  </section>
 
-  <h1 class="page-heading">Eventi passati</h1>
+  <!-- Social CTA Section -->
+  <section class="social-cta-section" id="join-community">
+    <div class="social-cta-content">
+      <h2 class="section-heading">Unisciti alla community MUG</h2>
 
-  <div class="page-footer">
-    <div class="event-link"><a class="post-link" href="{{ "eventi/" | relative_url }}">Vedi gli eventi passati</a></div>
-  </div>
+      <div class="social-cards">
+        {%- if page.social.telegram -%}
+        <div class="social-card">
+          <h3>Telegram</h3>
+          <p>Discussioni quotidiane, news e networking con la community</p>
+          <a href="{{ page.social.telegram }}" class="btn-social" target="_blank">Unisciti al gruppo →</a>
+        </div>
+        {%- endif -%}
+
+        {%- if page.social.linkedin -%}
+        <div class="social-card">
+          <h3>LinkedIn</h3>
+          <p>Aggiornamenti professionali, eventi e opportunità</p>
+          <a href="{{ page.social.linkedin }}" class="btn-social" target="_blank">Segui la pagina →</a>
+        </div>
+        {%- endif -%}
+      </div>
+    </div>
+  </section>
+
+  <!-- Speaker CTA -->
+  {%- include speaker-cta.html -%}
+
+  <!-- Partner Principal -->
+  {%- include partner-principal.html -%}
+
+  <!-- Communities -->
+  {%- include communities.html -%}
 
 </div>
