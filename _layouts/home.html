@@ -47,7 +47,7 @@ layout: default
             <strong>Speaker:</strong> {{ post.speaker | escape }}
           </div>
           <div class="event-date-meta">
-            <strong>Data:</strong> {{ post.date | date: "%d %B %Y" }}
+            <strong>Data:</strong> {% include date_it.html date=post.date %}
           </div>
         </div>
 

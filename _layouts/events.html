@@ -8,7 +8,7 @@ layout: page
 {% for post in events %}
     <div class="post-event">
         <div class="event-title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></div>
-        <div class="event-date">{{ post.date | date_to_long_string }}</div>
+        <div class="event-date">{% include date_it.html date=post.date %}</div>
         <div>di <div class="event-speaker">{{ post.speaker | escape }}</div></div>
         <hr />
     </div>
