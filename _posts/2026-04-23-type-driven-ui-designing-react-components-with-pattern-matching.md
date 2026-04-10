@@ -6,7 +6,7 @@ speaker: Filippo Zancanaro
 categories: eventi
 image: /assets/images/ts-pattern.jpg
 summary: "Come usare TypeScript, discriminated unions e ts-pattern per modellare lo stato UI in modo dichiarativo, eliminando bug e rendendo il codice React più leggibile"
-eventbrite_url:
+eventbrite_url: https://www.eventbrite.it/e/type-driven-ui-designing-react-components-with-pattern-matching-tickets-1987145142614?aff=oddtdtcreator
 ---
 
 Nuovo appuntamento con il MUG! Giovedì 23 aprile Filippo Zancanaro ci guiderà alla scoperta di come il pattern matching e [TypeScript](https://www.typescriptlang.org) possano trasformare il modo in cui progettiamo i componenti [React](https://react.dev).
