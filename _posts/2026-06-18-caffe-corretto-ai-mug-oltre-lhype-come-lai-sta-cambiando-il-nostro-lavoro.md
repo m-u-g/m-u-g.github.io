@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caffè corretto AI x MUG - Oltre l'hype: come l'AI sta cambiando il nostro lavoro"
-date: 2026-06-19 19:00:00 +0100
+date: 2026-06-18 19:00:00 +0100
 speaker: Caffè corretto AI
 categories: eventi
 image: /assets/images/caffe-corretto-ai-mug-oltre-lhype-come-lai-sta-cambiando-il-nostro-lavoro.png
