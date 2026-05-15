@@ -72,12 +72,12 @@ Ingresso gratuito. Biglietti disponibili a breve su EventBrite.
 {% endif %}
 {% endif %}
 
-<a id="location"></a>
+<a id="location"></a> 
 
 <h3>Location:</h3>
 
 [Moku](https://moku.io)<br />
-[Via Schivonia 3, 31100 Treviso (TV)](https://maps.app.goo.gl/FadeQ5knUUpZuDMf6)
+[Via Schiavonia, 3, 31100 Treviso TV](https://maps.app.goo.gl/FadeQ5knUUpZuDMf6)
 
 <iframe style="width: 100%; max-width: 100%; border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2788.3775146089606!2d12.238633041642737!3d45.663321171198334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477952f4602626d3%3A0x121ead66f61306ab!2smoku%20%7C%20software%20house!5e0!3m2!1sit!2sit!4v1778777283578!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
