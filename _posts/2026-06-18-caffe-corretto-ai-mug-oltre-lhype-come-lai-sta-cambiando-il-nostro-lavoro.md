@@ -93,3 +93,9 @@ Le slide dell'evento possono essere scaricate [qui](/assets/slides/2026_06_18-ca
 
 <img src="/assets/images/2026_06_18-caffe-corretto-ai-mug_1.png" alt="Michele Redolfi, Simone Pozzebon, Matteo Granzotto e il pubblico del MUG" style="width: 100%; max-width: 100%;">
 
+
+<a id="Video dell'evento"></a>
+
+<h3>Video dell'evento</h3>
+
+<iframe style="width: 100%; max-width: 100%; border:0;" width="560" height="315" src="https://www.youtube.com/embed/m3fUm1mZxeM?si=Y3msDDAdR9Peex3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
