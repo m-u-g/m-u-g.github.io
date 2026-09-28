@@ -6,7 +6,7 @@ speaker: Filippo Zancanaro
 categories: eventi
 image: /assets/images/neural-networks.jpg
 summary: "Un'introduzione alle reti neurali per developer che non sono ML engineer: cos'è un neurone, come si allena un modello e perché un LLM a volte inventa, senza troppe formule e con qualche esempio in Python"
-eventbrite_url: https://www.eventbrite.it/e/behind-neural-networks-come-funziona-una-rete-neurale-tickets-2001410839698?aff=oddtdtcreator
+eventbrite_url: https://www.eventbrite.it/e/2001410839698
 ---
 
 Nuovo appuntamento con il MUG! Giovedì 1 ottobre Filippo Zancanaro ci guiderà alla scoperta di come funziona una rete neurale, spiegata da un developer per developers.
