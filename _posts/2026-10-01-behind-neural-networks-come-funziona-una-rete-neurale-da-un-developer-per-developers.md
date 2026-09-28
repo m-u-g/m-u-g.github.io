@@ -19,7 +19,7 @@ Senza troppe formule, con esempi concreti e un po' di [Python](https://www.pytho
 Non si tratta di un corso, ma di un'introduzione per fornire al pubblico una base minima per poter capire meglio di cosa si parla e per potersi cimentare nel leggere il codice di un modello senza paura.
 
 <h3>Lo Speaker:</h3>
-[Filippo Zancanaro](https://www.linkedin.com/in/filippozancanaro) è un software engineer full stack in [Sibill](https://sibill.it), emergente scale-up fintech italiana e piattaforma AI-native che automatizza la gestione amministrativa, finanziaria e contabile per aziende e commercialisti, con esperienza in consulenza e sviluppo frontend ([React](https://react.dev), [Angular](https://angular.dev)) e backend ([.NET](https://dotnet.microsoft.com), [Elixir](https://elixir-lang.org)). Lo trovi anche su [GitHub](https://github.com/filippozancanaro).
+[Filippo Zancanaro](https://www.linkedin.com/in/filippozancanaro) è un software engineer full stack, con oltre 10 anni di esperienza in sviluppo frontend ([React](https://react.dev), [Angular](https://angular.dev)) e backend ([.NET](https://dotnet.microsoft.com), [Elixir](https://elixir-lang.org)) maturata tra startup e consulenza. Lo trovi anche su [GitHub](https://github.com/filippozancanaro).
 
 <h3>Orario:</h3>
 
